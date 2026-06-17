@@ -1,0 +1,152 @@
+{
+  "IDN": {
+    "name": "Indonesia",
+    "provinces": 33,
+    "file": "IDN.json",
+    "size_kb": 532.5
+  },
+  "IND": {
+    "name": "India",
+    "provinces": 36,
+    "file": "IND.json",
+    "size_kb": 705.8
+  },
+  "CHN": {
+    "name": "China",
+    "provinces": 32,
+    "file": "CHN.json",
+    "size_kb": 1184.8
+  },
+  "FRA": {
+    "name": "France",
+    "provinces": 101,
+    "file": "FRA.json",
+    "size_kb": 491.9
+  },
+  "KOR": {
+    "name": "South Korea",
+    "provinces": 17,
+    "file": "KOR.json",
+    "size_kb": 105.0
+  },
+  "BRA": {
+    "name": "Brazil",
+    "provinces": 27,
+    "file": "BRA.json",
+    "size_kb": 785.0
+  },
+  "RUS": {
+    "name": "Russia",
+    "provinces": 86,
+    "file": "RUS.json",
+    "size_kb": 2916.7
+  },
+  "DEU": {
+    "name": "Germany",
+    "provinces": 16,
+    "file": "DEU.json",
+    "size_kb": 304.1
+  },
+  "VNM": {
+    "name": "Vietnam",
+    "provinces": 63,
+    "file": "VNM.json",
+    "size_kb": 221.1
+  },
+  "TUR": {
+    "name": "Turkey",
+    "provinces": 81,
+    "file": "TUR.json",
+    "size_kb": 225.0
+  },
+  "ESP": {
+    "name": "Spain",
+    "provinces": 52,
+    "file": "ESP.json",
+    "size_kb": 317.0
+  },
+  "GBR": {
+    "name": "United Kingdom",
+    "provinces": 232,
+    "file": "GBR.json",
+    "size_kb": 477.8
+  },
+  "GRC": {
+    "name": "Greece",
+    "provinces": 14,
+    "file": "GRC.json",
+    "size_kb": 152.1
+  },
+  "AUT": {
+    "name": "Austria",
+    "provinces": 9,
+    "file": "AUT.json",
+    "size_kb": 55.4
+  },
+  "ITA": {
+    "name": "Italy",
+    "provinces": 110,
+    "file": "ITA.json",
+    "size_kb": 429.9
+  },
+  "CHE": {
+    "name": "Switzerland",
+    "provinces": 26,
+    "file": "CHE.json",
+    "size_kb": 106.3
+  },
+  "NLD": {
+    "name": "Netherlands",
+    "provinces": 15,
+    "file": "NLD.json",
+    "size_kb": 51.2
+  },
+  "THA": {
+    "name": "Thailand",
+    "provinces": 77,
+    "file": "THA.json",
+    "size_kb": 594.2
+  },
+  "PRT": {
+    "name": "Portugal",
+    "provinces": 20,
+    "file": "PRT.json",
+    "size_kb": 96.8
+  },
+  "USA": {
+    "name": "United States",
+    "provinces": 51,
+    "file": "USA.json",
+    "size_kb": 1226.2
+  },
+  "CAN": {
+    "name": "Canada",
+    "provinces": 13,
+    "file": "CAN.json",
+    "size_kb": 1734.0
+  },
+  "MEX": {
+    "name": "Mexico",
+    "provinces": 33,
+    "file": "MEX.json",
+    "size_kb": 494.5
+  },
+  "EGY": {
+    "name": "Egypt",
+    "provinces": 27,
+    "file": "EGY.json",
+    "size_kb": 106.3
+  },
+  "AUS": {
+    "name": "Australia",
+    "provinces": 11,
+    "file": "AUS.json",
+    "size_kb": 370.7
+  },
+  "JPN": {
+    "name": "Japan",
+    "provinces": 47,
+    "file": "JPN.json",
+    "size_kb": 291.6
+  }
+}
