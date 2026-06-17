@@ -13,29 +13,35 @@ const caveat = Caveat({
 });
 
 export const metadata: Metadata = {
-  title: "MapMyJourney — Beautiful Travel Map Maker",
+  title: "Countries Visited Map — Make & Share Your Travel Map | MapMyJourney",
   description:
-    "Turn the countries you've visited into a beautiful, shareable map in 60 seconds. Free, no login, no app download. Perfect for Instagram, Pinterest, and TikTok.",
+    "Create a beautiful map of countries you've visited in 60 seconds. Free travel map maker — no login, no app download. Color your world map, track provinces, and export stunning images for Instagram, Pinterest & TikTok.",
   keywords: [
-    "travel map",
-    "countries visited",
-    "world map maker",
-    "travel tracker",
-    "visited countries map",
-    "travel map generator",
+    "countries visited map",
+    "travel map maker",
+    "map of countries I've visited",
+    "make a travel map",
+    "world travel map",
+    "visited countries tracker",
+    "free travel map generator",
+    "countries visited tracker",
   ],
   openGraph: {
-    title: "MapMyJourney — Beautiful Travel Map Maker",
+    title: "Countries Visited Map — Make & Share Your Travel Map",
     description:
-      "Turn the countries you've visited into a beautiful, shareable map in 60 seconds.",
+      "Create a beautiful map of countries you've visited in 60 seconds. Free, no login required.",
     type: "website",
     locale: "en_US",
+    siteName: "MapMyJourney",
   },
   twitter: {
     card: "summary_large_image",
-    title: "MapMyJourney — Beautiful Travel Map Maker",
+    title: "Countries Visited Map — Make & Share Your Travel Map",
     description:
-      "Turn the countries you've visited into a beautiful, shareable map in 60 seconds.",
+      "Create a beautiful map of countries you've visited in 60 seconds. Free, no login required.",
+  },
+  alternates: {
+    canonical: "/",
   },
 };
 

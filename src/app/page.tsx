@@ -38,10 +38,11 @@ function HomeContent() {
       {/* Hero 标题（仅首次显示） */}
       <section className="text-center py-8 px-4">
         <h1 className="text-3xl sm:text-4xl font-bold text-stone-900 mb-2">
-          Map Your Travel Journey
+          Make a Beautiful Countries Visited Map
         </h1>
         <p className="text-stone-600 max-w-xl mx-auto">
-          Click countries you've visited, pick a style, export a beautiful map to share.
+          Free travel map maker — color the countries you&apos;ve visited, mark provinces,
+          and export a stunning map to share on Instagram, Pinterest &amp; TikTok. No login, no app download.
         </p>
       </section>
 
