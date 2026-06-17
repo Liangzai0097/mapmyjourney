@@ -16,7 +16,7 @@
    - **Webhook Key** → 填入 `DODO_PAYMENTS_WEBHOOK_KEY`
 3. 进入 **Products**，创建一个产品：
    - 名称：`HD Export Unlock`
-   - 价格：`$5.00`（一次性付款）
+   - 价格：`$2.00`（一次性付款）
    - 类型：Digital
    - 创建后复制 **Product ID**（格式 `pdt_xxx`）→ 填入 `DODO_PRODUCT_ID_HD`
 4. 进入 **Webhooks**，添加 webhook URL：

@@ -15,7 +15,7 @@ function SuccessContent() {
   useEffect(() => {
     // 简单的客户端解锁逻辑
     // 生产环境应该通过 webhook + 数据库做服务端验证
-    // 但对 $5 客单价的 MVP，这是可接受的风险
+    // 但对 $2 客单价的 MVP，这是可接受的风险
     setHasPaid(true);
   }, [setHasPaid]);
 

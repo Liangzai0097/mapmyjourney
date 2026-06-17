@@ -144,7 +144,7 @@ export default function ExportPanel() {
             <Lock className="w-4 h-4 mr-2" />
             {noQuotaLeft ? 'Get unlimited downloads' : 'Unlock unlimited + no watermark'}
           </span>
-          <span className="font-bold">$5</span>
+          <span className="font-bold">$2</span>
         </Button>
       )}
 
@@ -208,7 +208,7 @@ function PaywallDialog({
 
         <div className="flex items-baseline justify-between pt-2 border-t">
           <div>
-            <div className="text-3xl font-bold">$5</div>
+            <div className="text-3xl font-bold">$2</div>
             <div className="text-xs text-stone-500">one-time payment</div>
           </div>
           <Button onClick={handleCheckout} disabled={isRedirecting} size="lg">
